@@ -5,9 +5,12 @@ title: Awards
 ---
 
 ## Scholarships
-- November 2020: **National Scholarship** (¥8000)<br>One of the highest undergraduate awards at UPC
-- November 2019: **National Scholarship** (¥8000)<br>One of the highest undergraduate awards at UPC
-- November 2018: **National Scholarship** (¥8000)<br>One of the highest undergraduate awards at UPC
+- 11/2020: **National Scholarship** (¥8000)<br>One of the highest undergraduate awards at UPC
+- 12/2020: Merit scholarship (¥800)
+- 12/2020: Science and technology innovation scholarship (¥2000)
+- 12/2020: Innovation and Entrepreneurship Star Scholarship (¥3000)
+- 11/2019: **National Scholarship** (¥8000)<br>One of the highest undergraduate awards at UPC
+- 11/2018: **National Scholarship** (¥8000)<br>One of the highest undergraduate awards at UPC
 
 - Oct 2023：Best Academic Performance of Maynooth (€100)
 
