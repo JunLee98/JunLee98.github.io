@@ -4,8 +4,6 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
-
 ## Scholarships
 - November 2020: **National Scholarship** (¥8000)<br>One of the highest undergraduate awards at UPC
 - November 2019: **National Scholarship** (¥8000)<br>One of the highest undergraduate awards at UPC
