@@ -14,6 +14,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   scholar: https://scholar.google.com/citations?user=1ZtuhUwAAAAJ&hl=zh-CN
   researchgate: https://www.researchgate.net/profile/Jun-Li-431
+  ORCiD: https://orcid.org/0000-0002-6928-5249
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
@@ -35,8 +36,7 @@ links:
     url: /hobbies/
   - title: Blogs
     url: /blogs/
-  #- title: Hobbies
-   # url: /hobbies/
+ 
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
