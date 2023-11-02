@@ -18,7 +18,8 @@ title: Awards
 
 ## Honors
 Southern University of Science and Technology **(SUSTech)**
-- 04/2022 Excellent graduate teaching assistant
+- 04/2022: Excellent graduate teaching assistant
+<br>
 
 China University of Petroleum (East China) **(UPC)**
 - 06/2021: Dean's Award, School of Mechanical and Electrical Engineering, UPC
@@ -27,6 +28,7 @@ China University of Petroleum (East China) **(UPC)**
 - 08/2018: Outstanding Student of UPC
 - 05/2018: Excellent League Member
 - 04/2018: Model Student of Academic Records
+<br>
 
 ## Certifications
 - 06/2019: CET6 (College English Test Band 6 Certificate)
