@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://junli.com/junli.jpg" class="floatpic" width="360" height="480">
+<img src="https://junlee98.github.io/junli.jpg" class="floatpic" width="360" height="480">
 
 Here is **Jun Li (李峻)**.
 
@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sept 2021 - Now:** Southern University of Science and Technology (PHD Candidate)
+- **Sept 2021 - Present:** Southern University of Science and Technology (PHD Candidate)
 - **Sept 2017 - June 2021:** China University of Petroleum (East China) (Bachelor of Engineering)
 
 <br>
