@@ -12,27 +12,20 @@ title: Awards
 - Oct 2023：Best Academic Performance of Maynooth (€100)
 
 ## Competitions
-
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+- 07/2019 全国大学生先进成图技术与产品信息建模创新大赛, **National Individual First Prize**
+- <br>
 
 ## Honors
+- 08/2021 Outstanding Graduates of Shanding Province
+- 08/2020 Outstanding students of Shandong Province
+- 08/2018 Outstanding student of UPC
+- 05/2018 Excellent League Member
+- 04/2018 Model Student of Academic Records
 
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
+## Certifications
+- 06/2019 CET6 (College English Test Band 6 Certificate)
+- 12/2018 CET4 (College English Test Band 4 Certificate)
+- 08/2018 Mechanical Design at the level of ASSOCIATE (SolidWorks)
+- 03/2018 Second-level Certificate for National Computer
+<br>
 
