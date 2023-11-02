@@ -18,7 +18,7 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 ## Journal Paper
 
-- Coming soon... 🚀
+
 
   <br>
 
