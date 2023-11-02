@@ -22,7 +22,7 @@ title: Awards
 <br>
 
 ### China University of Petroleum (East China) **(UPC)**
-- 06/2021: Dean's Award, School of Mechanical and Electrical Engineering, UPC
+- 06/2021: Dean's Award<br>School of Mechanical and Electrical Engineering, UPC
 - 08/2021: Outstanding Graduates of Shanding Province
 - 08/2020: Outstanding Students of Shandong Province
 - 08/2018: Outstanding Student of UPC
