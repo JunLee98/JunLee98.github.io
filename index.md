@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://junlee98.github.io/junli1.jpg" class="floatpic" width="360" height="480">
+<img src="https://junlee98.github.io/junli1.jpg" class="floatpic" width="417" height="368">
 
 Here is **Jun Li (李峻)**.
 
