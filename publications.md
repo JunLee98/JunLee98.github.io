@@ -4,38 +4,27 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+# Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
-## Conference Paper
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
-
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
 
 ## Journal Paper
-
-
+- [Dandan Yuan, **Jun Li**, Jiaxu Huang, Min Wang, Shaolin Xu, Xinwei Wang. Large‐Scale Laser Nanopatterning of Multiband Tunable Mid‐Infrared Metasurface Absorber[J]. Advanced Optical Materials, 2022, 10(22): 2200939.](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.202200939?casa_token=qE4s_WaKlwEAAAAA%3A5UHRXAAJL71Sh8wTMmt5y-lvN9HSxGLa3kli2K7sq2H_zRdoMPpN0WV-ShSuNJlhj9QmlQFiwSdIak-J)
+- [Dandan Yuan, Jiaxu Huang, **Jun Li**, Wenfeng Cai, Huili Han, Yan Jun Liu, Min Wang, Shaolin Xu. Laser Constructing Short‐Range Disordered Metagratings for Visible Near‐Infrared Polarization‐Independent Absorption[J]. Advanced Optical Materials, 2023, 11(6): 2202585.](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.202202585?casa_token=fg4hZ0w1LegAAAAA%3AIiVhCxsti9TZSzBu3DCf8cJ136P0DWjCgOQlPfBox03FqvqiGqL0QniGaZwX6HEgQfRb7iI54R0MdNP6)
+- [Jiaxu Huang, **Jun Li**, Pei Qiu, Shaolin Xu. Laser-induced Two-dimensional Surface Nanopatterning on Film Materials (Invited)[J]. ACTA PHOTONICA SINICA, 2023, 52(7): 0752302-0752302-8.](https://www.researchgate.net/profile/Jun-Li-431/publication/374025551_Laser-induced_Two-dimensional_Surface_Nanopatterning_on_Film_Materials_Invited/links/650a1822c05e6d1b1c1d27a2/Laser-induced-Two-dimensional-Surface-Nanopatterning-on-Film-Materials-Invited.pdf)
+- [Jiaxu Huang, Kang Xu, Jin Hu, Dandan Yuan, **Jun Li**, Jingyu Qiao, Shaolin Xu. Self-aligned plasmonic lithography for maskless fabrication of large-area long-range ordered 2D nanostructures[J]. Nano Letters, 2022, 22(15): 6223-6228.](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c01740?casa_token=KP3yBSBIw5EAAAAA%3A6Sj7PrgkD0uFKUWQX235khQx5vxZOAnnJB691Iz0ivpzweddKobc4aC7yKrSQ4lxjl8PIOoZyrAjcDhVmQ)
+- [Wei Wang, Zhipeng Li, Peng Yao, **Jun Li**, Fuzhong Chen, Yonghong Liu. Sink-in/pile-up formation and crack nucleation mechanisms of high purity fused silica and soda-lime silica glass during nanoindentation experiments[J]. Ceramics International, 2020, 46(15): 24698-24709.](https://www.sciencedirect.com/science/article/pii/S0272884220319209?casa_token=zM4wWfEgKX8AAAAA:quZU91yuXv4Q1sUbVulZcd39PDP70cBE6krd2R4adgTtnjQOtJq9A0LLRxqDZfflbcrigR8W_NWR)
 
   <br>
 
-## Working Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors Journal (IF: 3.847). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
-
+## Conference Paper
+- Coming soon...🚀
   <br>
 
 ---
 
 ## Undergraduate Thesis
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+- Fabrication Technology of Two-dimensional Periodic Nanostructure-array Based on Cylindrically Focused Femtosecond Laser<br>**Jun Li** (Advisor: Baoping Cai, Shaolin Xu). Final Year Project.
 
   <br>
