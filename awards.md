@@ -17,11 +17,11 @@ title: Awards
 <br>
 
 ## Honors
-Southern University of Science and Technology **(SUSTech)**
+### Southern University of Science and Technology **(SUSTech)**
 - 04/2022: Excellent graduate teaching assistant
 <br>
 
-China University of Petroleum (East China) **(UPC)**
+### China University of Petroleum (East China) **(UPC)**
 - 06/2021: Dean's Award, School of Mechanical and Electrical Engineering, UPC
 - 08/2021: Outstanding Graduates of Shanding Province
 - 08/2020: Outstanding Students of Shandong Province
