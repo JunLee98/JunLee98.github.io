@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jun Li (李峻)**.
 
-I am a PHD candidate majoring in **Mechanical Engineering** at Southern University of Science and Technology (SUSTech). Currently, I am a member of the Ultrafast Laser Micro-/Nanofabrication Laboratory (ULMNF-Lab), advised by [Prof. Shaolin Xu (徐少林)](https://faculty.sustech.edu.cn/?tagid=xusl&iscss=1&snapid=1&orderby=date&go=1).
+I’m currently pursuing a Doctor of Philosophy in **Mechanical Engineering** at [Southern University of Science and Technology](https://www.sustech.edu.cn/). This academic journey is guided by [Prof. Shaolin Xu (徐少林)](https://faculty.sustech.edu.cn/?tagid=xusl&iscss=1&snapid=1&orderby=date&go=1) from SUSTech.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *12131087@mail.sustech.edu.cn*
 <br>
@@ -25,8 +25,8 @@ My current research focuses on laser processing of glass surface microstructures
 
 ## Academic Background
 
-- **Sept 2021 - Present:** Southern University of Science and Technology (PHD Candidate)
-- **Sept 2017 - June 2021:** China University of Petroleum (East China) (Bachelor of Engineering)
+- **Sept 2021 - Present:** [Southern University of Science and Technology](https://www.sustech.edu.cn/) (PHD Candidate)
+- **Sept 2017 - June 2021:** [China University of Petroleum (East China)](https://www.upc.edu.cn/) (Bachelor of Engineering)
 
 <br>
 

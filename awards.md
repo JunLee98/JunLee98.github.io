@@ -21,17 +21,17 @@ Southern University of Science and Technology **(SUSTech)**
 - 04/2022 Excellent graduate teaching assistant
 
 China University of Petroleum (East China) **(UPC)**
-- 06/2021 Dean's Award, School of Mechanical and Electrical Engineering, UPC
-- 08/2021 Outstanding Graduates of Shanding Province
-- 08/2020 Outstanding Students of Shandong Province
-- 08/2018 Outstanding Student of UPC
-- 05/2018 Excellent League Member
-- 04/2018 Model Student of Academic Records
+- 06/2021: Dean's Award, School of Mechanical and Electrical Engineering, UPC
+- 08/2021: Outstanding Graduates of Shanding Province
+- 08/2020: Outstanding Students of Shandong Province
+- 08/2018: Outstanding Student of UPC
+- 05/2018: Excellent League Member
+- 04/2018: Model Student of Academic Records
 
 ## Certifications
-- 06/2019 CET6 (College English Test Band 6 Certificate)
-- 12/2018 CET4 (College English Test Band 4 Certificate)
-- 08/2018 Mechanical Design at the level of ASSOCIATE (SolidWorks)
-- 03/2018 Second-level Certificate for National Computer
+- 06/2019: CET6 (College English Test Band 6 Certificate)
+- 12/2018: CET4 (College English Test Band 4 Certificate)
+- 08/2018: Mechanical Design at the level of ASSOCIATE (SolidWorks)
+- 03/2018: Second-level Certificate for National Computer
 <br>
 
