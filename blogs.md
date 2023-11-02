@@ -10,11 +10,3 @@ title: Blogs
 - Coming soon...🚀
 
 <br>
-
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
