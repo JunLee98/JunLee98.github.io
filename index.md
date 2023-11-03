@@ -21,7 +21,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Ultrafast Laser
 
 My current research focuses on laser processing of glass surface microstructures.
-
 <br>
 
 ## Academic Background
@@ -31,3 +30,10 @@ My current research focuses on laser processing of glass surface microstructures
 
 <br>
 
+- Coming soon...
+
+## News and Updates
+
+- 
+
+<br>
