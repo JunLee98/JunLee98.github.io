@@ -30,10 +30,8 @@ My current research focuses on laser processing of glass surface microstructures
 
 <br>
 
-- Coming soon...
-
 ## News and Updates
 
-- 
+- Coming soon...
 
 <br>
