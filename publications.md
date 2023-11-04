@@ -29,5 +29,3 @@ title: Publications
 
 ## Undergraduate Thesis
 - Fabrication Technology of Two-dimensional Periodic Nanostructure-array Based on Cylindrically Focused Femtosecond Laser<br>**Jun Li** (Advisor: Baoping Cai, Shaolin Xu). Final Year Project.
-
-  <br>
