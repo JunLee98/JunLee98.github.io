@@ -29,7 +29,6 @@ My current research focuses on laser processing of glass surface microstructures
 - **Sept 2017 - June 2021:** [China University of Petroleum (East China)](https://www.upc.edu.cn/) (Bachelor of Engineering)
 
 <br>
----
 
 ## News and Updates
 
