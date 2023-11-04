@@ -34,7 +34,7 @@ My current research focuses on laser processing of glass surface microstructures
 
 ## News and Updates
 
-- *2023/9/4-2023/9/5:* <br>**Poster:** 《Laser-guided Anisotropic Etching for Precision Machining of Micro-engineered  Glass Components》<br>[The 5th Symposium on Ultrafast Laser Precision Machining Technology and Application (Hangzhou, China)](https://www.zjuyh.com/QJY/nl/)<br>(第五届超快激光精密加工技术及应用研讨会·杭州)
+- *2023/9/4-2023/9/5:* <br>**Excellent Poster Award:** 《Laser-guided Anisotropic Etching for Precision Machining of Micro-engineered  Glass Components》<br>[The 5th Symposium on Ultrafast Laser Precision Machining Technology and Application (Hangzhou, China)](https://www.zjuyh.com/QJY/nl/)<br>(第五届超快激光精密加工技术及应用研讨会·杭州)
 
 - *2023/5/13-2023/5/14:* <br>**Oral Presentation:** 《Line-shaped laser lithography & its application in flexible electronic devices》<br>[The 15th National Conference on Laser Processing (Wuhan, China)](http://www.783nc.com/meeting/index/detail?id=7)<br>(第十五届全国激光加工学术会议·武汉)
 <br>
