@@ -33,6 +33,6 @@ My current research focuses on laser processing of glass surface microstructures
 
 ## News and Updates
 
-- 04/09/2023-05/09/2023 (Hangzhou, China) The 5th Symposium on Ultrafast Laser Precision Machining Technology and Application (第五届超快激光精密加工技术及应用研讨会)
+- 2023/9/4-2023/9/5 (Hangzhou, China) The 5th Symposium on Ultrafast Laser Precision Machining Technology and Application, **Poster《Laser-guided Anisotropic Etching for Precision Machining of Micro-engineered  Glass Components》**<br>(第五届超快激光精密加工技术及应用研讨会·杭州)
 
 <br>
