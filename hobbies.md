@@ -13,6 +13,9 @@ title: Hobbies
 <br>Stand at the highest point and enjoy the most comfortable moment.
 
 
-## Badminton
 
 ## Jogging
+<img src="/images/Jogging1.jpg">
+<img src="/images/Jogging2.jpg">
+</div>
+<br>
