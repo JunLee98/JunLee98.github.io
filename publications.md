@@ -11,7 +11,7 @@ title: Publications
 
 - [Dandan Yuan, Jiaxu Huang, **Jun Li**, Wenfeng Cai, Huili Han, Yan Jun Liu, Min Wang, Shaolin Xu*. Laser Constructing Short‐Range Disordered Metagratings for Visible Near‐Infrared Polarization‐Independent Absorption[J]. Advanced Optical Materials, 2023, 11(6): 2202585.](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.202202585?casa_token=fg4hZ0w1LegAAAAA%3AIiVhCxsti9TZSzBu3DCf8cJ136P0DWjCgOQlPfBox03FqvqiGqL0QniGaZwX6HEgQfRb7iI54R0MdNP6)
 
--[Pei Qiu, Yang Guo, Lingyu Huang, **Jun Li**, Jiaxu Huang, Min Wang, Zhiyu Zhang, Shaolin Xu*. Patterned Laser Ablation of Microgrooves with Controllable Cross‐Sections[J]. Advanced Materials Technologies, 2023: 2300333.](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202300333?casa_token=cWksrftzRCMAAAAA%3APyqDAhKhyr91lR8ktnIbX1t3xrVPueX2p2pO9oaqmSG2KfbHYuMFlPfanfdlj5ZEs9Ng-gqWnLK3D02U)
+- [Pei Qiu, Yang Guo, Lingyu Huang, **Jun Li**, Jiaxu Huang, Min Wang, Zhiyu Zhang, Shaolin Xu*. Patterned Laser Ablation of Microgrooves with Controllable Cross‐Sections[J]. Advanced Materials Technologies, 2023: 2300333.](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202300333?casa_token=cWksrftzRCMAAAAA%3APyqDAhKhyr91lR8ktnIbX1t3xrVPueX2p2pO9oaqmSG2KfbHYuMFlPfanfdlj5ZEs9Ng-gqWnLK3D02U)
 
 - [Jiaxu Huang, **Jun Li**, Pei Qiu, Shaolin Xu*. Laser-induced Two-dimensional Surface Nanopatterning on Film Materials (Invited)[J]. ACTA PHOTONICA SINICA, 2023, 52(7): 0752302-0752302-8.](https://www.researchgate.net/profile/Jun-Li-431/publication/374025551_Laser-induced_Two-dimensional_Surface_Nanopatterning_on_Film_Materials_Invited/links/650a1822c05e6d1b1c1d27a2/Laser-induced-Two-dimensional-Surface-Nanopatterning-on-Film-Materials-Invited.pdf)
 
